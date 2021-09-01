@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "title": "My first Blog",
+      "body": "This is my first blog that I had written. I am very excited",
+      "author": "Vansh",
+      "id": 3
+    },
+    {
+      "title": "Start>>",
+      "body": "daaaaa",
+      "author": "saaaaa",
+      "id": 4
+    },
+    {
+      "title": "Hello World",
+      "body": "In some cases, you will need to ensure that the html/body element's height is set to 100%.  For vertical alignment, set the parent element's width/height to 100% and add display: table. Then for the child element, change the display to table-cell and add vertical-align: middle.  For horizontal centering, you could either add text-align: center to center the text and any other inline children elements. Alternatively, you could use margin: 0 auto assuming the element is block level",
+      "author": "Aran",
+      "id": 5
+    }
+  ]
+}
